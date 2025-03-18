@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Contact Holy Mountain Tattoo & Vintage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Contact Us</h1>
+      <p>If you wish to reach out, send us an email.</p>
+    </header>
+
+    <section id="contact-info">
+      <a href="mailto:soilentqueen@gmail.com">Email us at soilentqueen@gmail.com</a>
+    </section>
+
+    <footer>
+      <p>Holy Mountain Tattoo & Vintage - 547 E Cimarron St. Colorado Springs, CO 80905</p>
+    </footer>
+  </div>
+</body>
+<script src="script.js"></script>
+</html>
