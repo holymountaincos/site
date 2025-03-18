@@ -1,23 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Holy Mountain - Tattoo & Vintage</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Holy Mountain Tattoo & Vintage</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div id="game-container">
-        <h1>HOLY MOUNTAIN</h1>
-        <p> Will you step inside?</p>
-        <button onclick="startGame()">Enter</button>
-    </div>
+  <div class="container">
+    <header>
+      <h1>Welcome to Holy Mountain Tattoo & Vintage</h1>
+      <p>Your journey begins here, adventurer. Choose your path.</p>
+    </header>
 
-    <div id="content" class="hidden">
-        <div id="text"></div>
-        <div id="choices"></div>
-    </div>
+    <section id="choices">
+      <button onclick="location.href='location.html'">Where are we?</button>
+      <button onclick="location.href='contact.html'">Contact Us</button>
+    </section>
 
-    <script src="script.js"></script>
+    <footer>
+      <p>Holy Mountain Tattoo & Vintage - 547 E Cimarron St. Colorado Springs, CO 80905</p>
+    </footer>
+  </div>
 </body>
+<script src="script.js"></script>
 </html>
