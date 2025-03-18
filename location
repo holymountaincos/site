@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Location - Holy Mountain Tattoo & Vintage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Our Location</h1>
+      <p>Find us at 547 E Cimarron St. Colorado Springs, CO 80905</p>
+    </header>
+
+    <section id="map">
+      <img src="images/map.png" alt="Map of our location" width="500">
+      <!-- Replace with an actual map or interactive feature later -->
+    </section>
+
+    <footer>
+      <p>Holy Mountain Tattoo & Vintage - 547 E Cimarron St. Colorado Springs, CO 80905</p>
+    </footer>
+  </div>
+</body>
+<script src="script.js"></script>
+</html>
